@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCS-ISTQB", "TCS-ISTQB\TCS-ISTQB.csproj", "{55D3CC88-0917-4DA6-8BDA-3C037739DEDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetStoreAutomation", "PetStoreAutomation\PetStoreAutomation.csproj", "{CEF96CCD-4F7D-4896-86B0-0960FE07B1B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55D3CC88-0917-4DA6-8BDA-3C037739DEDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55D3CC88-0917-4DA6-8BDA-3C037739DEDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55D3CC88-0917-4DA6-8BDA-3C037739DEDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55D3CC88-0917-4DA6-8BDA-3C037739DEDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEF96CCD-4F7D-4896-86B0-0960FE07B1B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEF96CCD-4F7D-4896-86B0-0960FE07B1B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEF96CCD-4F7D-4896-86B0-0960FE07B1B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEF96CCD-4F7D-4896-86B0-0960FE07B1B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9FFB146-0A03-433C-8AA4-23B261ECF6E5}
+	EndGlobalSection
+EndGlobal
